@@ -61,8 +61,11 @@ namespace EscuelaPrimaria
             PrimerGrado.Alumnos.Add(Alumno1);
             PrimerGrado.Alumnos.Add(Alumno1);
             PrimerGrado.Alumnos.Add(Alumno1);
-
+            Console.WriteLine("Hola Pocho, lamento decir que empecé la tarea un poco tarde y todavia no la puedo hacer funcionar como corresponde, pero igual quería entregar algo.");
+            Console.WriteLine("En las proximas horas voy a estar corrigiendo los errores y commiteando los cambios.");
+            Console.WriteLine("Con suerte no llegas a ver este mensaje, pero si es así, disculpa por el codigo incompleto");
             PrimerGrado.RecorridoAlumnos();
+            
         }
     }
 }
