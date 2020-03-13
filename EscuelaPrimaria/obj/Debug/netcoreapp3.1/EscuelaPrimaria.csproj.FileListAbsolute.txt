@@ -1,0 +1,11 @@
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\bin\Debug\netcoreapp3.1\EscuelaPrimaria.exe
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\bin\Debug\netcoreapp3.1\EscuelaPrimaria.deps.json
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\bin\Debug\netcoreapp3.1\EscuelaPrimaria.runtimeconfig.json
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\bin\Debug\netcoreapp3.1\EscuelaPrimaria.runtimeconfig.dev.json
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\bin\Debug\netcoreapp3.1\EscuelaPrimaria.dll
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\bin\Debug\netcoreapp3.1\EscuelaPrimaria.pdb
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\obj\Debug\netcoreapp3.1\EscuelaPrimaria.csprojAssemblyReference.cache
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\obj\Debug\netcoreapp3.1\EscuelaPrimaria.AssemblyInfoInputs.cache
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\obj\Debug\netcoreapp3.1\EscuelaPrimaria.AssemblyInfo.cs
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\obj\Debug\netcoreapp3.1\EscuelaPrimaria.dll
+S:\GitHub\RequerimientoEscuelaPrimara\EscuelaPrimaria\obj\Debug\netcoreapp3.1\EscuelaPrimaria.pdb
