@@ -61,9 +61,17 @@ namespace EscuelaPrimaria
             PrimerGrado.Alumnos.Add(Alumno1);
             PrimerGrado.Alumnos.Add(Alumno1);
             PrimerGrado.Alumnos.Add(Alumno1);
-            Console.WriteLine("Hola Pocho, lamento decir que empecé la tarea un poco tarde y todavia no la puedo hacer funcionar como corresponde, pero igual quería entregar algo.");
-            Console.WriteLine("En las proximas horas voy a estar corrigiendo los errores y commiteando los cambios.");
-            Console.WriteLine("Con suerte no llegas a ver este mensaje, pero si es así, disculpa por el codigo incompleto");
+
+            Evaluacion eva1 = new Evaluacion(PrimerGrado.Materias[0]);
+            Evaluacion eva2 = new Evaluacion(PrimerGrado.Materias[1]);
+            Evaluacion eva3 = new Evaluacion(PrimerGrado.Materias[2]);
+            Evaluacion eva4 = new Evaluacion(PrimerGrado.Materias[3]);
+
+            Alumno1.Evaluaciones.Add(eva1);
+            Alumno11.Evaluaciones.Add(eva2);
+            Alumno12.Evaluaciones.Add(eva3);
+            Alumno2.Evaluaciones.Add(eva4);
+
             PrimerGrado.RecorridoAlumnos();
             
         }

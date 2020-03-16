@@ -7,8 +7,8 @@ namespace EscuelaPrimaria.Modelo
     class Alumno
     {
         public String Nombre;
-        public List<Evaluacion> Evaluaciones;
-        
+        public List<Evaluacion> Evaluaciones = new List<Evaluacion>();
+
         public Alumno(String nombre)
         {
             this.Nombre = nombre;
@@ -19,7 +19,7 @@ namespace EscuelaPrimaria.Modelo
         {
             foreach(Evaluacion e in Evaluaciones)
             {
-                Console.WriteLine("La nota de " + this.Nombre + "en " + e.Materia + "es de " + e.Nota);
+                Console.WriteLine("La nota de " + this.Nombre + " en " + e.Materia.Nombre + " es de " + e.Nota);
             }
         }
     }

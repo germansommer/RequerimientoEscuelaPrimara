@@ -8,7 +8,8 @@ namespace EscuelaPrimaria.Modelo
     {
         public int Curso;
         public List<Alumno> Alumnos;
-        public List<Materia> Materias;
+        public List<Materia> Materias = new List<Materia>();
+        
 
         public Grado(int curso)
         {
@@ -24,7 +25,8 @@ namespace EscuelaPrimaria.Modelo
             this.Materias.Add(Lengua);
             this.Materias.Add(Matematica);
             this.Materias.Add(Musica);
-            this.Materias.Add(EducacionFisica);            
+            this.Materias.Add(EducacionFisica);        
+
         }
 
         public void RecorridoAlumnos()
